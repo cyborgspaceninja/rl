@@ -1,0 +1,2 @@
+#!/bin/env bash
+gcc main.c -lncurses -o main.exe && ./main.exe
