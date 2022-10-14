@@ -1,13 +1,13 @@
 # rl
 just a humble roguelike
 
-# features
+# Features
 - camera tracking 
 - movement
 - collision
 - "rendering" a map
 
-# wanted features
+# Wanted features
 - popups
 - npcs
 - menu-system
